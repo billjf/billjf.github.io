@@ -1,4 +1,4 @@
-![My Image](https://example.com/my-image-url)
+![My Image](https://github.com/billjf/billjf.github.io/blob/master/IMG_4754.JPEG)
 
 # Steps You Need to Take After Graduation to Land a Tech Job
 
